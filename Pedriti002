@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Pedro's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Brownie">Brownie</a></li>
+            <li><a href="#Macarrones">Macarrones</a></li>
+        </ol>
+        <h2 id="Brownie">Brownie</h2>
+        
+        <ul>
+            <li>Time: 40-60 minutes</li>
+            <li>Serves: 6 persons</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Chocolate</td>
+                    <td>200g</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>100g</td>
+                </tr>
+                 <tr>
+                    <td>Sugar</td>
+                    <td>150g</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Flour</td>
+                    <td>120g</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Lo primero es preparar el recipiente donde los vamos a cocinar. He utilizado una bandeja de 20 x 20cm de cristal y papel de horno.
+</p>
+ <p><strong>Step 2:</strong> Echamos en un cuenco el chocolate rallado o en trozos pequeños con la mantequilla y lo ponemos en el microondas durante 4 minutos a temperatura media. Sacamos y juntamos bien la mezcla con una varilla hasta que quede una crema parecida a la crema de chocolate.
+             </p>
+         <p><strong>Step 3:</strong> Partimos las nueces en trocitos y las pasamos por un poco de chocolate en polvo. Las introducimos en la crema y con un tenedor las cubrimos bien con el chocolate.</p>
+<p><strong>Step 4:</strong> En mi horno el tiempo de preparación son 40 minutos exactos pero en el de mi madre con 30-35 llega. No os debéis pasar con el tiempo porque os saldrán unos pastelillos secos que no hay quien se los coma.</p>
+<p><em>Source: <a href="https://www.recetasderechupete.com/receta-de-brownies-de-chocolate-con-nueces-forma-clasica-y-facil/1220/">Some recipes websites</a></em></p>
+
+     <h2 id="Macarrones">Macarrones</h2>
+                
+        <ul>
+            <li>Time: 45 minutes</li>
+            <li>Serves: 4 persons</li>
+        </ul>
+         <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+                <tr>
+                    <td>Macarrones</td>
+                    <td>400g</td>
+                </tr>
+                <tr>
+                    <td>Tomates</td>
+                    <td>1kg</td>
+                </tr>
+                <tr>
+                    <td>Cebolla</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Dientes de ajo</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Aceite</td>
+                    <td>10ml</td>
+                </tr>
+        </table>
+        <p><strong>Step 1:</strong> Empezaremos a preparar esta receta cocinando una salsa de tomate casera, que será con la que acompañaremos a los macarrones. Se puede hacer con tomate ya preparado, pero así te quedará más sabroso y será una receta más saludable. Para hacer esta salsa de tomate vamos a pelar la cebolla y los ajos, y los vamos a cortar en trocitos pequeños. Y por otra parte vamos a lavar los tomates, quitarles el tallo y a triturarlos lo mejor posible. 
+</p>
+        <p><strong>Step 2:</strong> En una sartén con aceite de oliva ponemos la cebolla y ajos troceados a fuego suave para que se vayan dorando bien, y cuando lo hayamos hecho añadimos los tomates triturados, echando un poco de sal a la mezcla. Deja cocinar unos 20-25 minutos a fuego más bien suave. Al acabar puedes pasar el salsa de tomate por un pasapuré para dejarla más fina, o bien usar una batidora para ello. 
+        </p>
+<p><strong>Step 3:</strong> Puedes ir preparando también los macarrones mientras tanto. Pon una olla bien grande con agua a calentar, con sal y un chorrito de aceite de oliva. Se debe poner un litro de agua por cada cien gramos de pasta, aproximadamente, así que calcula bien esa cantidad. Cuando el agua comience su ebullición, echa la pasta, pero no de golpe, sino poco a poco, para que la temperatura de la misma no descienda demasiado deprisa. Cuécela durante unos 15 minutos, hasta que quede en su punto, y escúrrela después. 
+</p>
+<p><strong>Step 4:</strong> Una vez tengas la pasta bien escurrida, la añadimos en una sartén junto con la salsa de tomate casera que teníamos preparada, y dejamos a fuego suave unos diez minutos para que se cocine todo bien, y después le añadimos queso en polvo, mezclamos y ya podemos servirlo en los platos y comerlo siempre caliente. Esperamos que os guste tanto como a nosotros esta estupenda receta de macarrones con tomate.
+</p>
+
+    <p><em>Source: <a href="http://www.recetamacarrones.com/Macarrones/MacarronesConTomate/MacarronesConTomate.html">Some recipes websites</a></em></p>
+    </body>
+</html>
